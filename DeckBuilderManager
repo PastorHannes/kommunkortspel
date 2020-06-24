@@ -1,0 +1,36 @@
+namespace HH.DeckBuilder
+{					
+  public class DeckBuilderManager : MonoBehaviour
+  {
+    public static DeckBuilderManager instance;
+
+    public Deck currentDeck;
+
+    #region Prefabs
+  //	[Header("Prefabs")]
+    public GameObject DatabaseCardPrefab;
+    public GameObject DeckCardPrefab;
+
+    #endregion
+
+    void Awake()
+    {
+      if(instance==null)
+      {
+        instance=this;
+      }
+      else
+      {
+        Destroy(gameObject);
+      }
+    }
+
+    public void OnCreateNewDeckButtonClicked()
+    {
+      Deck deck = new Deck();
+      deck.deckName = "Deck Name";
+
+  //		ownerName = PhotonNetwork.localPlayer.NickName;
+    }
+  }
+}
