@@ -1,0 +1,155 @@
+{
+  "From": "0.1.3",
+  "To": "0.1.4",
+  "Hash": "YGnM+iDOV6UUVwC3OqnvTDjDAQM",
+  "TotalSize": 0,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:52:03.5006504Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:59.1979355Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:56.1199907Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:56.7246565Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/BitpackersASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.565739Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/EmoCompressUtilsASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:52.9612485Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/HalfFloatASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.168429Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/PhotonChat.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:52.9862342Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/PhotonRealtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:53.2302418Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:55.4697287Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.4779736Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.9012507Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.0327927Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Unity.Subsystem.Registration.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.0676982Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:53.305227Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:53.0972193Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/Unity.XR.Management.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:53.2262264Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/UnityEngine.SpatialTracking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:53.998882Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:52.1835708Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Kommunspelet 2_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:51:54.4670026Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-02-07T12:52:38.7609535Z",
+      "Size": 0
+    }
+  ]
+}
