@@ -25,105 +25,105 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/app.info",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:43.6140352Z",
+      "LastWriting": "2021-02-07T13:05:22.8312302Z",
       "Size": 24
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/boot.config",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:40.2935898Z",
+      "LastWriting": "2021-02-07T13:05:19.6779856Z",
       "Size": 281
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/globalgamemanagers",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:39.2350365Z",
+      "LastWriting": "2021-02-07T13:05:18.9169652Z",
       "Size": 112316
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/globalgamemanagers.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:39.4065492Z",
+      "LastWriting": "2021-02-07T13:05:19.0954875Z",
       "Size": 134876
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/level0",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:35.9420763Z",
+      "LastWriting": "2021-02-07T13:05:16.098841Z",
       "Size": 16792
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/resources.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:39.9013894Z",
+      "LastWriting": "2021-02-07T13:05:19.4433236Z",
       "Size": 2147456
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/resources.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:39.8884217Z",
+      "LastWriting": "2021-02-07T13:05:19.4333833Z",
       "Size": 21313684
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/sharedassets0.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:39.9482621Z",
+      "LastWriting": "2021-02-07T13:05:19.4815072Z",
       "Size": 40280
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/sharedassets0.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:39.9442725Z",
+      "LastWriting": "2021-02-07T13:05:19.478511Z",
       "Size": 13550424
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Assembly-CSharp-firstpass.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:32.595793Z",
+      "LastWriting": "2021-02-07T13:05:13.2916059Z",
       "Size": 158208
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Assembly-CSharp-firstpass.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:32.5947948Z",
+      "LastWriting": "2021-02-07T13:05:13.2906088Z",
       "Size": 60540
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Assembly-CSharp.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:33.4714026Z",
+      "LastWriting": "2021-02-07T13:05:13.9483172Z",
       "Size": 415232
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Assembly-CSharp.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:33.4704064Z",
+      "LastWriting": "2021-02-07T13:05:13.9463214Z",
       "Size": 222600
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/BitpackersASMDEF.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.2656009Z",
+      "LastWriting": "2021-02-07T13:05:12.1581468Z",
       "Size": 39936
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/BitpackersASMDEF.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.2656009Z",
+      "LastWriting": "2021-02-07T13:05:12.1581468Z",
       "Size": 25236
     },
     {
@@ -186,14 +186,14 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/EmoCompressUtilsASMDEF.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:29.8984401Z",
+      "LastWriting": "2021-02-07T13:05:10.7277495Z",
       "Size": 7168
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/EmoCompressUtilsASMDEF.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.132416Z",
+      "LastWriting": "2021-02-07T13:05:10.7925761Z",
       "Size": 2728
     },
     {
@@ -214,14 +214,14 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/HalfFloatASMDEF.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.6824874Z",
+      "LastWriting": "2021-02-07T13:05:11.6294776Z",
       "Size": 10752
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/HalfFloatASMDEF.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.7004934Z",
+      "LastWriting": "2021-02-07T13:05:11.6504224Z",
       "Size": 3820
     },
     {
@@ -312,70 +312,70 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonChat.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.0849245Z",
+      "LastWriting": "2021-02-07T13:05:10.9745613Z",
       "Size": 36352
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonChat.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.1474337Z",
+      "LastWriting": "2021-02-07T13:05:11.0055501Z",
       "Size": 12248
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonRealtime.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.1664441Z",
+      "LastWriting": "2021-02-07T13:05:11.0470283Z",
       "Size": 105472
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonRealtime.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.1664441Z",
+      "LastWriting": "2021-02-07T13:05:11.0460308Z",
       "Size": 43212
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonUnityNetworking.Demos.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.9874176Z",
+      "LastWriting": "2021-02-07T13:05:12.7618025Z",
       "Size": 131072
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonUnityNetworking.Demos.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.9864211Z",
+      "LastWriting": "2021-02-07T13:05:12.7618025Z",
       "Size": 54968
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonUnityNetworking.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.0965173Z",
+      "LastWriting": "2021-02-07T13:05:12.0324824Z",
       "Size": 118784
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonUnityNetworking.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.0955254Z",
+      "LastWriting": "2021-02-07T13:05:12.0324824Z",
       "Size": 51992
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonUnityNetworking.Utilities.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.4959847Z",
+      "LastWriting": "2021-02-07T13:05:12.3721299Z",
       "Size": 59392
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/PhotonUnityNetworking.Utilities.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.4949865Z",
+      "LastWriting": "2021-02-07T13:05:12.3721299Z",
       "Size": 22680
     },
     {
@@ -424,14 +424,14 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.6834848Z",
+      "LastWriting": "2021-02-07T13:05:11.4135824Z",
       "Size": 5120
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.7004934Z",
+      "LastWriting": "2021-02-07T13:05:11.4355787Z",
       "Size": 728
     },
     {
@@ -711,56 +711,56 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.Subsystem.Registration.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.6664821Z",
+      "LastWriting": "2021-02-07T13:05:11.4415882Z",
       "Size": 4096
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.Subsystem.Registration.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.6894945Z",
+      "LastWriting": "2021-02-07T13:05:11.4605908Z",
       "Size": 712
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.TextMeshPro.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.4504596Z",
+      "LastWriting": "2021-02-07T13:05:11.1447658Z",
       "Size": 375296
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.TextMeshPro.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.4484639Z",
+      "LastWriting": "2021-02-07T13:05:11.1437686Z",
       "Size": 184856
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.Timeline.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.0349374Z",
+      "LastWriting": "2021-02-07T13:05:11.0879183Z",
       "Size": 121856
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.Timeline.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.0334237Z",
+      "LastWriting": "2021-02-07T13:05:11.0869206Z",
       "Size": 60832
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.XR.Management.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:29.8164464Z",
+      "LastWriting": "2021-02-07T13:05:10.9275535Z",
       "Size": 14848
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/Unity.XR.Management.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.1124018Z",
+      "LastWriting": "2021-02-07T13:05:10.9765554Z",
       "Size": 4712
     },
     {
@@ -984,14 +984,14 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/UnityEngine.SpatialTracking.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.6765028Z",
+      "LastWriting": "2021-02-07T13:05:11.470593Z",
       "Size": 11264
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/UnityEngine.SpatialTracking.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:30.6955122Z",
+      "LastWriting": "2021-02-07T13:05:11.4906023Z",
       "Size": 3404
     },
     {
@@ -1075,14 +1075,14 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/UnityEngine.UI.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:29.2066812Z",
+      "LastWriting": "2021-02-07T13:05:10.1928347Z",
       "Size": 255488
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/UnityEngine.UI.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:29.1897264Z",
+      "LastWriting": "2021-02-07T13:05:10.1918374Z",
       "Size": 140880
     },
     {
@@ -1208,14 +1208,14 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.1878075Z",
+      "LastWriting": "2021-02-07T13:05:11.9481352Z",
       "Size": 23040
     },
     {
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Managed/UnityEngine.XR.LegacyInputHelpers.pdb",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:31.2117431Z",
+      "LastWriting": "2021-02-07T13:05:12.0404626Z",
       "Size": 9196
     },
     {
@@ -1243,1394 +1243,8 @@
       "Operation": 4,
       "RelativePath": "HH.Launcher_Data/Resources/unity_builtin_extra",
       "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:46:40.2846143Z",
+      "LastWriting": "2021-02-07T13:05:19.6709995Z",
       "Size": 405312
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2.exe",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:36Z",
-      "Size": 640000
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/UnityCrashHandler32.exe",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:36Z",
-      "Size": 923136
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/UnityPlayer.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:33:46Z",
-      "Size": 34346496
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/app.info",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:41.9297456Z",
-      "Size": 27
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/boot.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:38.4744036Z",
-      "Size": 284
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/globalgamemanagers",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:37.1883136Z",
-      "Size": 112308
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/globalgamemanagers.assets",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:37.4486184Z",
-      "Size": 134876
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/level0",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:32.2031449Z",
-      "Size": 16784
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/resources.assets",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:37.9995165Z",
-      "Size": 2147456
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/resources.assets.resS",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:37.9855526Z",
-      "Size": 21313684
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/sharedassets0.assets",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:38.0529323Z",
-      "Size": 40280
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/sharedassets0.assets.resS",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:38.0469464Z",
-      "Size": 13550424
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Assembly-CSharp-firstpass.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:29.5096331Z",
-      "Size": 158208
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Assembly-CSharp-firstpass.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:29.5096331Z",
-      "Size": 60540
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Assembly-CSharp.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:30.2388528Z",
-      "Size": 415232
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Assembly-CSharp.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:30.2368588Z",
-      "Size": 222600
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/BitpackersASMDEF.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.3631904Z",
-      "Size": 39936
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/BitpackersASMDEF.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.3631904Z",
-      "Size": 25236
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/ByteConverter.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:56:11Z",
-      "Size": 6144
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/ByteConverter.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:56:40Z",
-      "Size": 19968
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/DemiLib.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-07-24T09:57:34Z",
-      "Size": 11776
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/DemiLib.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-07-24T09:57:50Z",
-      "Size": 3351
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/DOTween.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-07-24T09:57:53Z",
-      "Size": 162304
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/DOTween.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-07-24T09:57:31Z",
-      "Size": 61741
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/DOTweenPro.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-07-24T09:57:53Z",
-      "Size": 15872
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/DOTweenPro.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-07-24T09:58:04Z",
-      "Size": 2791
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/EmoCompressUtilsASMDEF.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.5065504Z",
-      "Size": 7168
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/EmoCompressUtilsASMDEF.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.5235044Z",
-      "Size": 2728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/FloatCrusher.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:57:02Z",
-      "Size": 19968
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/FloatCrusher.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:58:55Z",
-      "Size": 52736
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/HalfFloatASMDEF.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.9733569Z",
-      "Size": 10752
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/HalfFloatASMDEF.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.9978571Z",
-      "Size": 3820
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/HalFloat.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:58:57Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/HalFloat.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:58:00Z",
-      "Size": 26112
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/ICSharpCode.SharpZipLib.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:46Z",
-      "Size": 198144
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/MHLab.Patch.Core.Admin.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:32Z",
-      "Size": 25088
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/MHLab.Patch.Core.Client.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:47Z",
-      "Size": 37888
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/MHLab.Patch.Core.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:33Z",
-      "Size": 41472
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Mono.Security.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 310272
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/mscorlib.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 3905024
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/netstandard.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 84992
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Newtonsoft.Json.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:32Z",
-      "Size": 693680
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Photon3Unity3D.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:57:44Z",
-      "Size": 227840
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Photon3Unity3D.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:57:16Z",
-      "Size": 652800
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonChat.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.5823471Z",
-      "Size": 36352
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonChat.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.6352058Z",
-      "Size": 12248
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonRealtime.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.7578783Z",
-      "Size": 105472
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonRealtime.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.7568806Z",
-      "Size": 43212
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonUnityNetworking.Demos.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.9022563Z",
-      "Size": 131072
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonUnityNetworking.Demos.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.9012586Z",
-      "Size": 54968
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonUnityNetworking.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.1978675Z",
-      "Size": 118784
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonUnityNetworking.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.1978675Z",
-      "Size": 51992
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonUnityNetworking.Utilities.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.5556774Z",
-      "Size": 59392
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/PhotonUnityNetworking.Utilities.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.5556774Z",
-      "Size": 22680
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/QuatCompress.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:58:12Z",
-      "Size": 7680
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/QuatCompress.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:57:09Z",
-      "Size": 17920
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Serilog.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:34Z",
-      "Size": 126464
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Serilog.Sinks.File.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-10-11T09:24:20Z",
-      "Size": 29184
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.OdinInspector.Attributes.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:47Z",
-      "Size": 37888
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.OdinInspector.Attributes.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:42Z",
-      "Size": 21517
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.7928493Z",
-      "Size": 5120
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.8448519Z",
-      "Size": 728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.Serialization.Config.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:51Z",
-      "Size": 17408
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.Serialization.Config.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:58Z",
-      "Size": 1311
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.Serialization.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:57Z",
-      "Size": 314880
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.Serialization.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:43Z",
-      "Size": 118416
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.Utilities.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:43Z",
-      "Size": 142848
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Sirenix.Utilities.dll.mdb",
-      "Attributes": 8224,
-      "LastWriting": "2020-11-23T15:57:45Z",
-      "Size": 46098
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Collections.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 5120
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.ComponentModel.Composition.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 247808
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Configuration.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 43008
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Core.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 1057792
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Data.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 1941504
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Diagnostics.StackTrace.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 6656
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 2141696
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Drawing.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 184320
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.EnterpriseServices.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 33280
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Globalization.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 5120
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Globalization.Extensions.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 6144
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.IO.Compression.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 98816
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.IO.Compression.FileSystem.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 23040
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.IO.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4608
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.IO.FileSystem.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4608
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.IO.FileSystem.Primitives.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4608
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Linq.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4096
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Net.Http.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 114688
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Numerics.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 114176
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Runtime.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 12800
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Runtime.Extensions.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 5120
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Runtime.Serialization.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 840704
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Runtime.Serialization.Xml.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 7168
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.ServiceModel.Internals.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 218112
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Text.Encoding.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 5120
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Text.Encoding.Extensions.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4608
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Text.RegularExpressions.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4608
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Threading.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 5632
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Threading.Timer.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 4608
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Transactions.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 33280
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Xml.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 2414592
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Xml.Linq.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 119296
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/System.Xml.XPath.XDocument.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:17:22Z",
-      "Size": 5120
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.Subsystem.Registration.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.5948229Z",
-      "Size": 4096
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.Subsystem.Registration.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.6138415Z",
-      "Size": 712
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.TextMeshPro.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.2867485Z",
-      "Size": 375296
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.TextMeshPro.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.2857515Z",
-      "Size": 184856
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.Timeline.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.6312166Z",
-      "Size": 121856
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.Timeline.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:26.6302191Z",
-      "Size": 60832
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.XR.Management.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.2817627Z",
-      "Size": 14848
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/Unity.XR.Management.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.3027063Z",
-      "Size": 4712
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.AccessibilityModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:52Z",
-      "Size": 12288
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.AIModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:52Z",
-      "Size": 44544
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.AndroidJNIModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:52Z",
-      "Size": 57344
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.AnimationModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 145920
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ARModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 12800
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.AssetBundleModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 21504
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.AudioModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 57344
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ClothModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 15872
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ClusterInputModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:54Z",
-      "Size": 10240
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ClusterRendererModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 9216
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.CoreModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:48Z",
-      "Size": 1005568
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.CrashReportingModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:23:06Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.DirectorModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 13312
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:23:12Z",
-      "Size": 84992
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.DSPGraphModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 17920
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.GameCenterModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 27136
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.GridModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 13824
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.HotReloadModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 8704
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ImageConversionModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 12800
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.IMGUIModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 156160
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.InputLegacyModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 25600
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.InputModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 12288
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.JSONSerializeModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 10752
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.LocalizationModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ParticleSystemModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 135168
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:23:06Z",
-      "Size": 9216
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.Physics2DModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 105984
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.PhysicsModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 87040
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ProfilerModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 8704
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SharedInternalsModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:38Z",
-      "Size": 19456
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SpatialTracking.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.6658482Z",
-      "Size": 11264
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SpatialTracking.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:27.78487Z",
-      "Size": 3404
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SpriteMaskModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 10240
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SpriteShapeModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 13824
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.StreamingModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:56Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SubstanceModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 13312
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.SubsystemsModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 16896
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.TerrainModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 80384
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.TextCoreModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 184320
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.TextRenderingModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 27648
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.TilemapModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 25088
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.TLSModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 8704
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UI.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:25.8984102Z",
-      "Size": 255488
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UI.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:25.8774667Z",
-      "Size": 140880
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UIElementsModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 726528
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UIModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 23040
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UmbraModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 8704
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UNETModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 77312
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 32768
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityConnectModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 10752
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:32Z",
-      "Size": 8704
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 11776
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 11264
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 43008
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 10752
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:23:08Z",
-      "Size": 20480
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.VehiclesModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:34Z",
-      "Size": 12800
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.VFXModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 38912
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.VideoModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 28672
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.VRModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:23:06Z",
-      "Size": 34816
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.WindModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:58Z",
-      "Size": 9728
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.2458823Z",
-      "Size": 23040
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.XR.LegacyInputHelpers.pdb",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:28.2698759Z",
-      "Size": 9196
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/UnityEngine.XRModule.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:22:56Z",
-      "Size": 54272
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Managed/websocket-sharp.dll",
-      "Attributes": 8224,
-      "LastWriting": "2020-12-01T07:56:36Z",
-      "Size": 250368
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Resources/unity default resources",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:20Z",
-      "Size": 3837020
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/Kommunspelet 2_Data/Resources/unity_builtin_extra",
-      "Attributes": 8224,
-      "LastWriting": "2021-02-07T11:15:38.4554545Z",
-      "Size": 405312
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 3915776
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 612352
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/browscap.ini",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 311984
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 3276
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 60575
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/2.0/machine.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 29116
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/2.0/settings.map",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 2622
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/2.0/web.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 11686
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 1605
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 60575
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.0/machine.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 33648
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.0/settings.map",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 2622
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.0/web.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 18848
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 1605
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 60575
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.5/machine.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 34106
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.5/settings.map",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 2622
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.5/web.config",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 18857
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 1605
-    },
-    {
-      "Operation": 0,
-      "RelativePath": "Launcher/MonoBleedingEdge/etc/mono/mconfig/config.xml",
-      "Attributes": 8224,
-      "LastWriting": "2021-01-12T15:21:14Z",
-      "Size": 25817
     },
     {
       "Operation": 4,
